@@ -22,7 +22,7 @@ const Sidebar = () => {
     { name: 'Dashboard', path: '/dashboard', icon: LayoutDashboard },
     { name: 'System Log Monitor', path: '/upload', icon: UploadCloud },
     { name: 'Log Analysis', path: '/analysis', icon: Search },
-    { name: 'Behavioral Features', path: '/features', icon: Cpu },
+    { name: 'Features', path: '/features', icon: Cpu },
     { name: 'Anomaly Detection', path: '/detection', icon: ShieldAlert },
     { name: 'SHAP Explainability', path: '/shap', icon: PieChart },
     { name: 'Reports', path: '/reports', icon: FileText },
